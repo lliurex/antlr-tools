@@ -1,0 +1,18 @@
+Source: antlr-tools
+Section: utils
+Priority: optional
+Maintainer: Equipo LliureX <lliurex@gva.es>
+Uploaders: M.Angel Juan <m.angel.juan@gmail.com>, Raul Rodrigo Segura <lliurex_devel3@edu.gva.es>, Hector Garcia Huerta <lliurex_devel1@edu.gva.es>, Daniel Duran Vecino <daduve@gmail.com>, Juanma Navarro <juanma1980@gmail.com>, Juan Ramon Pelegrina <juapesai@hotmail.com>, Enrique Medina Gremaldos <lliurex_devel4@edu.gva.es>
+Build-Depends: cdbs, debhelper (>= 7),cli-common-dev 
+Standards-Version: 4.1.4
+Homepage: http://lliurex.net
+
+Package: antlr-tools
+Conflicts: antlr3, antlr
+Provides: antlr3, antlr
+Replaces: antlr3, antlr
+Architecture: all
+Depends: ${misc:Depends}
+Description: antlr command line and gui editor
+ Command line, graphical editor and mono cil for antlr parser generation tool.
+ This package is targeted for developers only

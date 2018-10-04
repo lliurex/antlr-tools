@@ -1,0 +1,90 @@
+antlr-tools (0.9.0) bionic; urgency=medium
+
+  * Bionic release
+
+ -- Juanma Navarro Mañez <juanma1980@gmail.com>  Thu, 04 Oct 2018 10:28:47 +0200
+
+antlr-tools (0.8.0) xenial; urgency=medium
+
+  * Ported to xenial
+
+ -- M.Angel Juan <m.angel.juan@gmail.com>  Mon, 21 Ene 2016 12:39:22 +0200
+
+antlr-tools (0.7.3) trusty; urgency=high
+
+  * Trusty release
+
+ -- Hector Garcia Huerta <hectorgh@gmail.com>  Mon, 06 Oct 2014 12:35:01 +0200
+
+antlr-tools (0.7.2) precise; urgency=low
+
+  * Updated Provides,Replaces and Conflicts
+
+ -- Angel Berlanas Vicente <angel.berlanas@gmail.com>  Mon, 04 Mar 2013 09:27:21 +0100
+
+antlr-tools (0.7.1) precise; urgency=low
+
+  * First ppa release
+
+ -- Hector Garcia Huerta <hectorgh@gmail.com>  Tue, 27 Mar 2012 13:24:42 +0200
+
+antlr-tools (0.7) precise; urgency=low
+
+  * first pandora release
+
+ -- Hector Garcia Huerta <lliurex_devel1@edu.gva.es>  Thu, 23 Mar 2012 10:31:09 +0100
+
+antlr-tools (0.6) lucid; urgency=low
+
+  * ToNemo
+
+ -- Angel Berlanas Vicente <lliurex_devel2@edu.gva.es>  Thu, 23 Feb 2012 10:30:42 +0100
+
+antlr-tools (0.5) unstable; urgency=low
+
+  * Uploaders Fixed
+
+ -- Angel Berlanas Vicente <lliurex_devel2@edu.gva.es>  Thu, 16 Feb 2012 10:01:56 +0100
+
+antlr-tools (0.4) unstable; urgency=low
+
+  * Fixed build-depends
+
+ -- Angel Berlanas Vicente <lliurex_devel2@edu.gva.es>  Fri, 27 Jan 2012 08:22:03 +0100
+
+antlr-tools (0.3) unstable; urgency=low
+
+  * New Version for nemo
+
+ -- Angel Berlanas Vicente <lliurex_devel2@edu.gva.es>  Fri, 03 Jun 2011 11:18:44 +0200
+
+antlr-tools (0.2) lucid; urgency=low
+
+  * new version for marty 
+
+ -- Angel Berlanas Vicente <lliurex_devel2@edu.gva.es>  Fri, 03 Jun 2011 11:18:03 +0200
+
+antlr-tools (0.1.7) unstable; urgency=low
+
+  * fixed cli version 
+
+ -- Enrique Medina Gremaldos <lliurex_devel4@edu.gva.es>  Wed, 14 Apr 2010 08:47:21 +0200
+
+antlr-tools (0.1.6) unstable; urgency=low
+
+  * Cli libs were not successfully installed 
+
+ -- Enrique Medina Gremaldos <lliurex_devel4@edu.gva.es>  Fri, 09 Apr 2010 13:21:57 +0200
+
+antlr-tools (0.1.5) unstable; urgency=low
+
+  * Minor fixes
+  * Providing antlr tools for leia 
+
+ -- Enrique Medina Gremaldos <lliurex_devel4@edu.gva.es>  Fri, 09 Apr 2010 09:39:38 +0200
+
+antlr-tools (0.1) unstable; urgency=low
+
+  * Just a bunch of antlr tools packaged
+
+ -- Enrique Medina Gremaldos <lliurex_devel4@edu.gva.es>  Fri, 29 Jan 2010 13:06:06 +0100
