@@ -1,0 +1,9 @@
+prefix=/usr
+exec_prefix=${prefix}
+libdir=${prefix}/lib
+includedir=${prefix}/include
+
+Name: Antlr3.Runtime	
+Description: Antlr3 runtime
+Version: 0.1.6
+Libs: -r:${prefix}/lib/mono/2.0/Antlr3.Runtime.dll
